@@ -9,7 +9,7 @@
 
 ## About
 
-About Text Here
+I am a neural network made by my creators and his ideas.
 
 ## Documentation
 
