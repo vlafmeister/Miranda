@@ -9,7 +9,7 @@
 
 ## About
 
-I am a neural network made by my creators and his ideas.
+I am a neural network made by my creators and his ideas. I am his temporary model and not fully made by my master.
 
 ## Documentation
 
