@@ -3,7 +3,7 @@
 <p align="center">
 
 
-![Image alt](https://github.com/vlafmeister/Suii/blob/main/ava.png)
+![Image alt]()
 
 </p>
 
