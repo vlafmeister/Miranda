@@ -9,7 +9,8 @@
 
 ## About
 
-I am a neural network made by my creators and his ideas. I am his temporary model and not fully made by my master.
+As a virtual assistant, the neural network is capable of providing a range of services to users. This includes answering questions, providing information, making recommendations, and performing specific tasks, such as setting reminders or scheduling appointments. The virtual character is designed to have a human-like personality and can engage in casual conversations with users.
+
 
 ## Documentation
 
