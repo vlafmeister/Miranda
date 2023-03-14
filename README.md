@@ -1,4 +1,4 @@
-# Suii
+# Suii-chan
 
 <p align="center">
 
